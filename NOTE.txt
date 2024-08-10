@@ -1,0 +1,7 @@
+The application is broken throwing the following error:
+
+THREE.WebGLRenderer: Context Lost.
+
+Solution from stack overflow: https://stackoverflow.com/questions/25219352/webgl-scene-doest-render-because-of-lost-context
+
+
